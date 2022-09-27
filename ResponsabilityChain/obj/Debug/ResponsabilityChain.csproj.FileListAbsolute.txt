@@ -1,0 +1,8 @@
+C:\Users\eduar\Desktop\Scio\Design patterns\ResponsabilityChain-master\ResponsabilityChain\bin\Debug\ResponsabilityChain.exe.config
+C:\Users\eduar\Desktop\Scio\Design patterns\ResponsabilityChain-master\ResponsabilityChain\bin\Debug\ResponsabilityChain.exe
+C:\Users\eduar\Desktop\Scio\Design patterns\ResponsabilityChain-master\ResponsabilityChain\bin\Debug\ResponsabilityChain.pdb
+C:\Users\eduar\Desktop\Scio\Design patterns\ResponsabilityChain-master\ResponsabilityChain\obj\Debug\ResponsabilityChain.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Scio\Design patterns\ResponsabilityChain-master\ResponsabilityChain\obj\Debug\ResponsabilityChain.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\Desktop\Scio\Design patterns\ResponsabilityChain-master\ResponsabilityChain\obj\Debug\ResponsabilityChain.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Scio\Design patterns\ResponsabilityChain-master\ResponsabilityChain\obj\Debug\ResponsabilityChain.exe
+C:\Users\eduar\Desktop\Scio\Design patterns\ResponsabilityChain-master\ResponsabilityChain\obj\Debug\ResponsabilityChain.pdb

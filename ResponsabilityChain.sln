@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsabilityChain", "ResponsabilityChain\ResponsabilityChain.csproj", "{34EB794C-3EF4-4AEA-B30C-58F691A42BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34EB794C-3EF4-4AEA-B30C-58F691A42BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EB794C-3EF4-4AEA-B30C-58F691A42BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EB794C-3EF4-4AEA-B30C-58F691A42BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EB794C-3EF4-4AEA-B30C-58F691A42BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94CE25F2-66C8-4926-9ADE-AF1C616FAADE}
+	EndGlobalSection
+EndGlobal
